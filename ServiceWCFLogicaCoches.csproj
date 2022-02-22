@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CochesClass.cs" />
     <Compile Include="ICochesContract.cs" />
     <Compile Include="Models\Coche.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
